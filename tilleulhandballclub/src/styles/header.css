@@ -1,0 +1,24 @@
+.headerContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 12vh;
+    width: 100vw;
+    background-color: #000000;
+}
+
+.titleContainer {
+    display: flex;
+    align-items: center;
+}
+
+h1 {
+    color: white;
+    font-size: 2em;
+    margin: 0 10px;
+}
+
+img {
+    height: 35px;
+    width: 35px;
+}
